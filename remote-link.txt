@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://mass-presentation-southwest-census.trycloudflare.com/vnc.html
+URL       : https://powered-avoiding-rapid-alleged.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-05-03 07:40:23
+Created   : 2026-05-03 12:04:20
 =======================================================
